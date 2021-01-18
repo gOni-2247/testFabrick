@@ -18,7 +18,7 @@ public class Main {
 
         account.transfer(14537780, "Nome Cognome", "descrizione", "EUR", "10000");
         
-        System.out.println("cacca");
+      
         System.out.println("Questa mofifica");
         
         System.out.println("Aggiungo un altra features qui!");
