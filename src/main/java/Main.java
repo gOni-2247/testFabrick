@@ -17,8 +17,7 @@ public class Main {
         System.out.println();
 
         account.transfer(14537780, "Nome Cognome", "descrizione", "EUR", "10000");
-
-        System.out.println("Questa e' un altra features fondamentale");
+        
         
         System.out.println("Aggiungo un altra features qui!");
 
