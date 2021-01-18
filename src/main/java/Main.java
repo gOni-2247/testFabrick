@@ -19,7 +19,7 @@ public class Main {
         account.transfer(14537780, "Nome Cognome", "descrizione", "EUR", "10000");
         
 
-        System.out.println("Questa mofifica e' cattiva");
+        System.out.println("Questa mofifica e' buona");
 
         
         System.out.println("Aggiungo un altra features qui!");
